@@ -1,5 +1,5 @@
 [package]
-name = "realworld"
+name = "hexagonal"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,7 +7,7 @@ edition = "2021"
 path = "src/lib.rs"
 
 [[bin]]
-name = "realworld-rust"
+name = "hexagonal"
 path = "src/main.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

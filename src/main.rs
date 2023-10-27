@@ -1,4 +1,3 @@
-use realworld::domain::auth;
+use hexagonal::domain::auth;
 
-fn main() {
-}
+fn main() {}
