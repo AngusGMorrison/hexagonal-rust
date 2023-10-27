@@ -14,5 +14,6 @@ path = "src/main.rs"
 
 [dependencies]
 anyhow = "1.0.75"
+argon2 = { version = "0.5.2", features = ["std"] }
 email_address = { version = "0.2.4", default-features = false }
 thiserror = "1.0.50"
