@@ -1,5 +1,4 @@
-mod lib;
+use realworld::domain::auth;
 
 fn main() {
-    println!("Hello, world!");
 }
